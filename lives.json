@@ -7,12 +7,6 @@
       "#title": "OFFLINE",
       "active": true
     },
-        {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/NsAGP9EA_q0",
-      "#title": "OFFLINE",
-      "active": true
-    },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/NTDChinese/videos/2361425664109210/",
