@@ -26,7 +26,12 @@
       "#title": "OFFLINE",
       "active": true
     },
-    
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/dw.chinese.traditional/videos/400899020533612/",
+      "#title": "OFFLINE",
+      "active": true
+    },
     
     
     
