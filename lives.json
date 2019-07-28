@@ -2,13 +2,13 @@
   "visibleCount": 4,
   "lives": [
     {
-      "type": "youtube",
+      "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/363754727905974/",
       "#title": "OFFLINE",
       "active": true
     },
     {
-      "type": "youtube",
+      "type": "facebook",
       "#id": "https://www.facebook.com/NTDChinese/videos/2361425664109210/",
       "#title": "OFFLINE",
       "active": true
