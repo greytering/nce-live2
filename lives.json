@@ -5,38 +5,38 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/YahooHongKongNews/videos/3492762270749410/",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/9ZIUcYv3gaU",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/dw.chinese.traditional/videos/400899020533612/",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/inmediahk/videos/2364038650522262/",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/HKNewsAgency/videos/1225062807671638/",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
 
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/atvhongkong/videos/626792861142135/",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     
     
