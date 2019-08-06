@@ -3,13 +3,13 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/NRlng2MaOT0",
+      "#id": "https://www.youtube.com/embed/HusaIljqVIk",
       "#title": "OFFLINE",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/PIFDOabSovg",
+      "#id": "https://www.youtube.com/embed/O_MmJ0EYx34",
       "#title": "OFFLINE",
       "active": true
     },
@@ -17,13 +17,13 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/fxnIsdoMuyY",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/T-xJGh6uNn4",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     
     
